@@ -290,13 +290,13 @@ Completed in **2026**
 📧 Email
 
 ```
-your-email@example.com
+chandrakantkore000@gmail.com
 ```
 
 💼 LinkedIn
 
 ```
-https://linkedin.com/in/your-profile
+https://www.linkedin.com/in/chandrakant-kore-b31047301
 ```
 
 🐙 GitHub
